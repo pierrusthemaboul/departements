@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /carte-dev
+Disallow: /effacement-dev
+Disallow: /mesures-dev
+Disallow: /session-dev
+
+Sitemap: https://pierrusthemaboul.github.io/departements/sitemap.xml
